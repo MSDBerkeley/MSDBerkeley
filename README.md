@@ -1,5 +1,6 @@
 ## Hi there 👋
-Learning how to GitHub
+- Learning how to GitHub
+- Still no idea what I am doing
 
 <!--
 **MSDBerkeley/MSDBerkeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
